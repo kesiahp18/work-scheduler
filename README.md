@@ -8,4 +8,6 @@ Using the Work Day Scheduler starter code, this application allows users to sche
 * Bootstrap
 * HTML
 
-![Alt Text](./assets/images/Screenshot.png "screenshot of application")
+Deployed Application: https://kesiahp18.github.io/work-scheduler/
+
+![Alt Text](./assets/images/screenshot.png "screenshot of application")
